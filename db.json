@@ -1,0 +1,52 @@
+{
+  "projects": [
+    {
+      "name": "teste",
+      "budget": "1200",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 79,
+      "services": [
+        {
+          "name": "aaa",
+          "cost": "22",
+          "description": "1",
+          "id": "3ef172e1-8c89-4e54-b604-b82635a3ef8c"
+        },
+        {
+          "name": "a",
+          "cost": "34",
+          "description": "2",
+          "id": "29d5c2fb-2c77-434b-a15a-48c976f73e32"
+        },
+        {
+          "name": "po",
+          "cost": "23",
+          "description": "a",
+          "id": "efaad860-f92a-4314-8357-48f357bc1cc9"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
